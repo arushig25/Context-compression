@@ -1,0 +1,5 @@
+[
+  {"role": "user", "text": "I'm planning a trip to Paris. Budget $1200."},
+  {"role": "user", "text": "Meeting in Paris on Wednesday at 3pm."},
+  {"role": "user", "text": "Change of plans: forget Rome."}
+]
